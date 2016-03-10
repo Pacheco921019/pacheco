@@ -1,0 +1,4 @@
+abre  atom
+intalar los paquetes 
+emmet
+atom-lorempixel

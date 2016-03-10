@@ -1,0 +1,50 @@
+﻿<<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" type="text/css" href="stilos.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+	<meta charset="UTF-8">
+	<title>Paguina con CSS</title>
+</head>
+<body>
+<!--h1#temaPrincipal>{Paguina con etiquetas}!-->
+<h1 id="temaPrincipal">Paguina con etiquetas</h1>
+
+<!--nav#navegador>ul#listaprincipal>li.estiloMenu*4-->
+<nav id="navegador">
+	<ul id="listaprincipal">
+		<li class="estiloMenu">Inicio</li>
+		<li class="estiloMenu">Contacto</li>
+		<li class="estiloMenu">Quien Somos</li>
+		<li class="estiloMenu">Servicios</li>
+	</ul>
+</nav>
+<!--div#seccion1-->
+<!--div#articulo>p>lorem10-->
+<!--div#articulo>div#seccionInformacion>img.imagenArticulo*3>p>lorem10
+para la imagen http://lorempixel.com/400/200/
+
+div.contenidoPrincipal>div#seccionInformacion>img.imagenArticulo*3>p>lorem10
+-->
+<div class="contenidoPrincipal">
+	<div id="seccionInformacion">
+		<img src="http://lorempixel.com/400/200/" alt="" class="imagenArticulo">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, libero!</p>
+		</img>
+		<img src="http://lorempixel.com/400/200/" alt="" class="imagenArticulo">
+			<p>Reiciendis nobis necessitatibus, ea natus officia commodi perferendis dicta vitae.</p>
+		</img>
+		<img src="http://lorempixel.com/400/200/" alt="" class="imagenArticulo">
+			<p>Accusantium commodi consectetur repellat aspernatur illum ducimus, nisi obcaecati dolorum.</p>
+		</img>
+	</div>
+</div>
+<!--
+	footer#piePagina>p>{Diseñado_en_TELMEXHub_D.F.}
+	footer#piePagina>p{Diseñado_en_TELMEXHub_D.F.}
+-->
+<footer id="piePagina">
+	<p>Diseñado_en_TELMEXHub_D.F.</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,41 @@
+
+JAvas
+desventaja nomotri/asincrono
+funciona para relizar pruevas octane
+no es fuermete mente equipado
+
+jquery
+libro de libquer'ss
+----------------------
+diferencia 
+framework estructura oplantilla
+
+libreria 
+jquery
+conbierte parte del codigo par facilitar su ejecucion y lo reduce
+
+-----------------------
+combroxio
+cmc
+responsibo-NO!!
+rwd-Si!para adaptar la pantalla  a un porte
+psd
+---------
+frameworks
+Brootstrap/robusto/	[http://getbootstrap.com/
+Foundation/tiene /	[http://foundation.zurb.com/]
+Layoutlt//	[http://www.layoutit.com/es]
+-----------
+editores de texto
+
+1)Emmet	-	[http://emmet.io/]	/generador de codigo 
+2)Sublime	/par arduino
+3)Brackets	-	[http://brackets.io/]	
+	/utiliza bastantes procesos  y utiliza sockets mas tedioso 
+	/aligual que  utiliza PSD
+	escompatible con photoshop
+plugin's 
+	Lorem Ipsum
+	Emmet
+	
+4)Atom	/ [https://atom.io/]

@@ -1,0 +1,13 @@
+abre  sublime
+view / consola
+hablir paguina [https://packagecontrol.io/installation]
+copiar el codigo de sublime
+en sublime situarce en preferences
+despues packet control
+instlatar EMMET
+ crear unja carpeta
+en sublime guardar el documento nuevo como index.html en la carpeta anterior creada
+y escribir html:5 + tabulador
+aparecera por defaul el codigo para html5
+ a empezar la paguina
+
